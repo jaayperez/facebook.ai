@@ -1,0 +1,19 @@
+{
+  "name": "facebook.ai",
+  "version": "1.0.0",
+  "description": "Facebook AI Bot utilizing Artificial Intelligence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaayperez/facebook.ai.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaayperez/facebook.ai/issues"
+  },
+  "homepage": "https://github.com/jaayperez/facebook.ai#readme"
+}
